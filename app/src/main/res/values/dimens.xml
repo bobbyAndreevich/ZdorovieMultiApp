@@ -1,3 +1,7 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="primary_padding">16dp</dimen>
+
+    <dimen name="classic_header_textSize">16sp</dimen>
 </resources>

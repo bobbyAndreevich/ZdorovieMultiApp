@@ -25,4 +25,9 @@
             android:id="@+id/action_SecondFragment_to_FirstFragment"
             app:destination="@id/FirstFragment" />
     </fragment>
+    <fragment
+        android:id="@+id/workoutConstructor"
+        android:name="com.example.zdoroviemultiapp.WorkoutConstructor"
+        android:label="fragment_workout_constructor"
+        tools:layout="@layout/fragment_workout_constructor" />
 </navigation>
