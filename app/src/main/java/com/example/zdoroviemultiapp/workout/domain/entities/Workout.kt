@@ -1,4 +1,4 @@
-package com.example.zdoroviemultiapp.workoutConstructor.domain
+package com.example.zdoroviemultiapp.workout.domain.entities
 
 data class Workout (
 

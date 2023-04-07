@@ -2,6 +2,9 @@
     <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="primary_padding">16dp</dimen>
+    <dimen name="very_small_padding">4dp</dimen>
+
+    <dimen name="small_margin">8dp</dimen>
 
     <dimen name="classic_header_textSize">16sp</dimen>
 </resources>

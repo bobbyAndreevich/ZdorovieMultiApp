@@ -1,4 +1,4 @@
-package com.example.zdoroviemultiapp.workoutConstructor.presentation
+package com.example.zdoroviemultiapp.workout.presentation.workoutConstructor
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.zdoroviemultiapp.R
 
-class WorkoutConstructor : Fragment() {
+class WorkoutConstructorFragment : Fragment() {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
