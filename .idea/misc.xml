@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BobbyGreen/AndroidStudioProjects/ZdorovieMultiApp/app/src/main/res/drawable/duration_ic.xml" value="0.3305" />
+        <entry key="..\:/Users/BobbyGreen/AndroidStudioProjects/ZdorovieMultiApp/app/src/main/res/drawable/power_ic.xml" value="0.3305" />
+        <entry key="..\:/Users/BobbyGreen/AndroidStudioProjects/ZdorovieMultiApp/app/src/main/res/drawable/repeats_ic.xml" value="0.3305" />
+        <entry key="..\:/Users/BobbyGreen/AndroidStudioProjects/ZdorovieMultiApp/app/src/main/res/drawable/rounded_corners_bg.xml" value="0.3305" />
+        <entry key="..\:/Users/BobbyGreen/AndroidStudioProjects/ZdorovieMultiApp/app/src/main/res/layout/approach_info_layout.xml" value="1.5" />
+        <entry key="..\:/Users/BobbyGreen/AndroidStudioProjects/ZdorovieMultiApp/app/src/main/res/layout/exercise_info_layout.xml" value="0.5" />
+        <entry key="..\:/Users/BobbyGreen/AndroidStudioProjects/ZdorovieMultiApp/app/src/main/res/layout/fragment_workout_constructor.xml" value="0.35104166666666664" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
